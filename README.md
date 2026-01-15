@@ -1,6 +1,7 @@
-# yt-dlp-gui
+﻿# yt-dlp-gui
 
 [English](README.md) | [简体中文](README_zh.md)
+
 <div align="center">
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
@@ -9,13 +10,13 @@
 
 A modern, user-friendly Graphical User Interface for [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
-[Features](#features) �?[Installation](#installation) �?[Usage](#usage) �?[Screenshots](#screenshots) �?[Contributing](#contributing)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
 
 </div>
 
 ---
 
-## �?Features
+## ✨ Features
 
 - 🎨 **Modern UI** - Clean, intuitive interface with dark theme support
 - 🌍 **Multi-language** - Support for English, Chinese (Simplified/Traditional), Japanese, and Korean
@@ -28,7 +29,7 @@ A modern, user-friendly Graphical User Interface for [yt-dlp](https://github.com
 - ⚙️ **Settings Management** - Persistent configuration with GUI settings window
 - 🔍 **FFmpeg Integration** - Automatic detection and configuration
 - 📊 **Progress Tracking** - Real-time download progress and logging
-- 🖥�?**Cross-platform** - Works on Windows, Linux, and macOS
+- 🖥️ **Cross-platform** - Works on Windows, Linux, and macOS
 - 🔄 **Easy Updates** - yt-dlp is a dependency, update via pip
 
 ## 📦 Installation
@@ -111,7 +112,7 @@ python -m yt_dlp_gui.main
 
 1. **Enter URL** - Paste a YouTube or supported site URL
 2. **Configure Settings** - Choose format, quality, and other options via tabs
-3. **Set Output** - Click Settings (�? to configure output directory and other preferences
+3. **Set Output** - Click Settings (⚙) to configure output directory and other preferences
 4. **Download** - Click "START DOWNLOAD" and monitor progress
 
 ### Command Preview
@@ -125,7 +126,7 @@ The Advanced tab shows a real-time preview of the yt-dlp command that will be ex
 Coming soon...
 ```
 
-## 🛠�?Configuration
+## 🛠️ Configuration
 
 Settings are stored in `settings.json` in the application directory. You can configure:
 
@@ -159,17 +160,17 @@ python -m yt_dlp_gui.main
 
 ```
 yt-dlp-gui/
-├── yt_dlp_gui/           # Main package
-�?  ├── __init__.py
-�?  ├── main.py          # Entry point
-�?  ├── app.py           # Main GUI class
-�?  ├── config.py        # Configuration management
-�?  ├── logic.py         # Business logic
-�?  ├── settings.py      # Settings window
-�?  ├── widgets.py       # Custom widgets
-�?  ├── i18n.py          # Internationalization
-�?  ├── tabs/            # Tab implementations
-�?  └── locales/         # Translation files
+├── yt_dlp_gui/          # Main package
+│   ├── __init__.py
+│   ├── main.py          # Entry point
+│   ├── app.py           # Main GUI class
+│   ├── config.py        # Configuration management
+│   ├── logic.py         # Business logic
+│   ├── settings.py      # Settings window
+│   ├── widgets.py       # Custom widgets
+│   ├── i18n.py          # Internationalization
+│   ├── tabs/            # Tab implementations
+│   └── locales/         # Translation files
 ├── tests/               # Test files
 ├── README.md
 ├── CHANGELOG.md
@@ -222,4 +223,3 @@ This tool is for personal use only. Please respect copyright laws and the terms 
 <div align="center">
 Made with ❤️ by the community
 </div>
-
