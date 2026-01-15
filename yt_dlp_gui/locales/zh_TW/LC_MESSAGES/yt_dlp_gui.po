@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yt-dlp GUI\n"
+"Language: zh_TW\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "yt-dlp Visual Downloader"
+msgstr "yt-dlp 可視化下載器"
+
+msgid "YouTube Downloader"
+msgstr "YouTube 下載器"
+
+msgid "⚙ Settings"
+msgstr "⚙ 設定"
+
+msgid "Video URL:"
+msgstr "影片連結:"
+
+msgid "https://www.youtube.com/watch?v=..."
+msgstr "https://www.youtube.com/watch?v=..."
+
+msgid "START DOWNLOAD"
+msgstr "開始下載"
+
+msgid "Click to begin downloading the video or playlist"
+msgstr "點擊開始下載影片或播放列表"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Network"
+msgstr "網路"
+
+msgid "Filters"
+msgstr "過濾器"
+
+msgid "Post-Processing"
+msgstr "後處理"
+
+msgid "Advanced"
+msgstr "進階"
+
+msgid "Ready"
+msgstr "就緒"
+
+msgid "Log Output:"
+msgstr "日誌輸出:"
+
+msgid "JS Engine: {}"
+msgstr "JS 引擎: {}"
+
+msgid "Missing (Node.js/Deno not found)"
+msgstr "未找到 (需要 Node.js 或 Deno)"
+
+msgid "Settings saved successfully!"
+msgstr "設定已儲存!"
+
+msgid "Input Error"
+msgstr "輸入錯誤"
+
+msgid "Please enter a valid URL"
+msgstr "請輸入有效的連結"
+
+msgid "Path Error"
+msgstr "路徑錯誤"
+
+msgid "Output directory does not exist and cannot be created:
+{}"
+msgstr "輸出目錄不存在且無法建立:
+{}"
+
+msgid "DOWNLOADING..."
+msgstr "下載中..."
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Completed"
+msgstr "完成"
+
+msgid "Download Finished!"
+msgstr "下載完成!"
+
+msgid "Error"
+msgstr "錯誤"
+
+msgid "Error occurred"
+msgstr "發生錯誤"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Language:"
+msgstr "語言:"
+
+msgid "Theme:"
+msgstr "主題:"
+
+msgid "Dark"
+msgstr "深色"
+
+msgid "Light"
+msgstr "淺色"
+
+msgid "Output Directory:"
+msgstr "輸出目錄:"
+
+msgid "Browse"
+msgstr "瀏覽"
+
+msgid "Cookies File:"
+msgstr "Cookies 文件:"
+
+msgid "Proxy URL:"
+msgstr "代理地址:"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "FFmpeg Location:"
+msgstr "FFmpeg 路徑:"
+
+msgid "Data Sync ID:"
+msgstr "資料同步 ID:"
+
+msgid "Save Settings"
+msgstr "儲存設定"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Not Found"
+msgstr "未找到"
+
+msgid "FFmpeg Status: {}"
+msgstr "FFmpeg 狀態: {}"
+
+msgid "FFprobe Status: {}"
+msgstr "FFprobe 狀態: {}"
+
+msgid "Format:"
+msgstr "格式:"
+
+msgid "Video Extension:"
+msgstr "影片延伸名:"
+
+msgid "Audio Extension:"
+msgstr "音訊延伸名:"
+
+msgid "Quality:"
+msgstr "品質:"
+
+msgid "Music Mode (Optimized)"
+msgstr "音樂模式 (優化)"
+
+msgid "Organize by Year"
+msgstr "按年份封存"
+
+msgid "Custom Output Template:"
+msgstr "自定義輸出模板:"
+
+msgid "Browser Cookies:"
+msgstr "瀏覽器 Cookies:"
+
+msgid "User Agent:"
+msgstr "User Agent:"
+
+msgid "Rate Limit (e.g. 5M):"
+msgstr "速度限制 (如 5M):"
+
+msgid "Socket Timeout (s):"
+msgstr "逾時時間 (秒):"
+
+msgid "Source IP:"
+msgstr "源 IP 地址:"
+
+msgid "Playlist Items (e.g. 1,2,5-10):"
+msgstr "播放列表項目 (如 1,2,5-10):"
+
+msgid "Date (YYYYMMDD):"
+msgstr "日期 (YYYYMMDD):"
+
+msgid "Date Before:"
+msgstr "在此日期之前:"
+
+msgid "Date After:"
+msgstr "在此日期之後:"
+
+msgid "Min Filesize (e.g. 50k):"
+msgstr "最小檔案大小 (如 50k):"
+
+msgid "Max Filesize (e.g. 50m):"
+msgstr "最大檔案大小 (如 50m):"
+
+msgid "Match Filter:"
+msgstr "比對過濾器:"
+
+msgid "Embed Metadata"
+msgstr "嵌入元資料"
+
+msgid "Embed Thumbnail"
+msgstr "嵌入封面"
+
+msgid "Embed Subtitles"
+msgstr "嵌入字幕"
+
+msgid "Embed Chapters"
+msgstr "嵌入章節"
+
+msgid "Subtitle Languages (e.g. en,zh):"
+msgstr "字幕語言 (如 en,zh):"
+
+msgid "SponsorBlock (e.g. all):"
+msgstr "SponsorBlock (如 all):"
+
+msgid "Write Description"
+msgstr "寫入描述文件"
+
+msgid "Write Info JSON"
+msgstr "寫入元資料 JSON"
+
+msgid "Save Thumbnail to Disk"
+msgstr "儲存封面圖片"
+
+msgid "Legacy SSL (Fix EOF)"
+msgstr "舊版 SSL (修復 EOF)"
+
+msgid "Live From Start"
+msgstr "從頭下載直播"
+
+msgid "Use .part files"
+msgstr "使用 .part 檔案"
+
+msgid "Restrict Filenames (ASCII)"
+msgstr "限制檔名 (ASCII)"
+
+msgid "Force Overwrite"
+msgstr "強制覆蓋"
+
+msgid "Retries:"
+msgstr "重試次數:"
+
+msgid "Wait for Video (seconds):"
+msgstr "等待影片 (秒):"
+
+msgid "Extra Arguments (CLI):"
+msgstr "額外參數 (CLI):"
+
+msgid "Command Preview:"
+msgstr "命令預覽:"
+

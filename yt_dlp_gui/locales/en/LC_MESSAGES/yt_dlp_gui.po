@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yt-dlp GUI\n"
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "yt-dlp Visual Downloader"
+msgstr "yt-dlp Visual Downloader"
+
+msgid "YouTube Downloader"
+msgstr "YouTube Downloader"
+
+msgid "⚙ Settings"
+msgstr "⚙ Settings"
+
+msgid "Video URL:"
+msgstr "Video URL:"
+
+msgid "https://www.youtube.com/watch?v=..."
+msgstr "https://www.youtube.com/watch?v=..."
+
+msgid "START DOWNLOAD"
+msgstr "START DOWNLOAD"
+
+msgid "Click to begin downloading the video or playlist"
+msgstr "Click to begin downloading the video or playlist"
+
+msgid "General"
+msgstr "General"
+
+msgid "Network"
+msgstr "Network"
+
+msgid "Filters"
+msgstr "Filters"
+
+msgid "Post-Processing"
+msgstr "Post-Processing"
+
+msgid "Advanced"
+msgstr "Advanced"
+
+msgid "Ready"
+msgstr "Ready"
+
+msgid "Log Output:"
+msgstr "Log Output:"
+
+msgid "JS Engine: {}"
+msgstr "JS Engine: {}"
+
+msgid "Missing (Node.js/Deno not found)"
+msgstr "Missing (Node.js/Deno not found)"
+
+msgid "Settings saved successfully!"
+msgstr "Settings saved successfully!"
+
+msgid "Input Error"
+msgstr "Input Error"
+
+msgid "Please enter a valid URL"
+msgstr "Please enter a valid URL"
+
+msgid "Path Error"
+msgstr "Path Error"
+
+msgid "Output directory does not exist and cannot be created:
+{}"
+msgstr "Output directory does not exist and cannot be created:
+{}"
+
+msgid "DOWNLOADING..."
+msgstr "DOWNLOADING..."
+
+msgid "Success"
+msgstr "Success"
+
+msgid "Completed"
+msgstr "Completed"
+
+msgid "Download Finished!"
+msgstr "Download Finished!"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Error occurred"
+msgstr "Error occurred"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Language:"
+msgstr "Language:"
+
+msgid "Theme:"
+msgstr "Theme:"
+
+msgid "Dark"
+msgstr "Dark"
+
+msgid "Light"
+msgstr "Light"
+
+msgid "Output Directory:"
+msgstr "Output Directory:"
+
+msgid "Browse"
+msgstr "Browse"
+
+msgid "Cookies File:"
+msgstr "Cookies File:"
+
+msgid "Proxy URL:"
+msgstr "Proxy URL:"
+
+msgid "Tools"
+msgstr "Tools"
+
+msgid "FFmpeg Location:"
+msgstr "FFmpeg Location:"
+
+msgid "Data Sync ID:"
+msgstr "Data Sync ID:"
+
+msgid "Save Settings"
+msgstr "Save Settings"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Not Found"
+msgstr "Not Found"
+
+msgid "FFmpeg Status: {}"
+msgstr "FFmpeg Status: {}"
+
+msgid "FFprobe Status: {}"
+msgstr "FFprobe Status: {}"
+
+msgid "Format:"
+msgstr "Format:"
+
+msgid "Video Extension:"
+msgstr "Video Extension:"
+
+msgid "Audio Extension:"
+msgstr "Audio Extension:"
+
+msgid "Quality:"
+msgstr "Quality:"
+
+msgid "Music Mode (Optimized)"
+msgstr "Music Mode (Optimized)"
+
+msgid "Organize by Year"
+msgstr "Organize by Year"
+
+msgid "Custom Output Template:"
+msgstr "Custom Output Template:"
+
+msgid "Browser Cookies:"
+msgstr "Browser Cookies:"
+
+msgid "User Agent:"
+msgstr "User Agent:"
+
+msgid "Rate Limit (e.g. 5M):"
+msgstr "Rate Limit (e.g. 5M):"
+
+msgid "Socket Timeout (s):"
+msgstr "Socket Timeout (s):"
+
+msgid "Source IP:"
+msgstr "Source IP:"
+
+msgid "Playlist Items (e.g. 1,2,5-10):"
+msgstr "Playlist Items (e.g. 1,2,5-10):"
+
+msgid "Date (YYYYMMDD):"
+msgstr "Date (YYYYMMDD):"
+
+msgid "Date Before:"
+msgstr "Date Before:"
+
+msgid "Date After:"
+msgstr "Date After:"
+
+msgid "Min Filesize (e.g. 50k):"
+msgstr "Min Filesize (e.g. 50k):"
+
+msgid "Max Filesize (e.g. 50m):"
+msgstr "Max Filesize (e.g. 50m):"
+
+msgid "Match Filter:"
+msgstr "Match Filter:"
+
+msgid "Embed Metadata"
+msgstr "Embed Metadata"
+
+msgid "Embed Thumbnail"
+msgstr "Embed Thumbnail"
+
+msgid "Embed Subtitles"
+msgstr "Embed Subtitles"
+
+msgid "Embed Chapters"
+msgstr "Embed Chapters"
+
+msgid "Subtitle Languages (e.g. en,zh):"
+msgstr "Subtitle Languages (e.g. en,zh):"
+
+msgid "SponsorBlock (e.g. all):"
+msgstr "SponsorBlock (e.g. all):"
+
+msgid "Write Description"
+msgstr "Write Description"
+
+msgid "Write Info JSON"
+msgstr "Write Info JSON"
+
+msgid "Save Thumbnail to Disk"
+msgstr "Save Thumbnail to Disk"
+
+msgid "Legacy SSL (Fix EOF)"
+msgstr "Legacy SSL (Fix EOF)"
+
+msgid "Live From Start"
+msgstr "Live From Start"
+
+msgid "Use .part files"
+msgstr "Use .part files"
+
+msgid "Restrict Filenames (ASCII)"
+msgstr "Restrict Filenames (ASCII)"
+
+msgid "Force Overwrite"
+msgstr "Force Overwrite"
+
+msgid "Retries:"
+msgstr "Retries:"
+
+msgid "Wait for Video (seconds):"
+msgstr "Wait for Video (seconds):"
+
+msgid "Extra Arguments (CLI):"
+msgstr "Extra Arguments (CLI):"
+
+msgid "Command Preview:"
+msgstr "Command Preview:"
+

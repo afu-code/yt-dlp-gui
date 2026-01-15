@@ -1,0 +1,1 @@
+@python -Werror -Xdev -m yt_dlp_gui.main %*

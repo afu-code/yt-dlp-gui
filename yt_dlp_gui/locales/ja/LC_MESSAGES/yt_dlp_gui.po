@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yt-dlp GUI\n"
+"Language: ja\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "yt-dlp Visual Downloader"
+msgstr "yt-dlp ビジュアルダウンローダー"
+
+msgid "YouTube Downloader"
+msgstr "YouTube ダウンローダー"
+
+msgid "⚙ Settings"
+msgstr "⚙ 設定"
+
+msgid "Video URL:"
+msgstr "動画URL:"
+
+msgid "https://www.youtube.com/watch?v=..."
+msgstr "https://www.youtube.com/watch?v=..."
+
+msgid "START DOWNLOAD"
+msgstr "ダウンロード開始"
+
+msgid "Click to begin downloading the video or playlist"
+msgstr "クリックしてダウンロードを開始します"
+
+msgid "General"
+msgstr "全般"
+
+msgid "Network"
+msgstr "ネットワーク"
+
+msgid "Filters"
+msgstr "フィルター"
+
+msgid "Post-Processing"
+msgstr "後処理"
+
+msgid "Advanced"
+msgstr "高度な設定"
+
+msgid "Ready"
+msgstr "準備完了"
+
+msgid "Log Output:"
+msgstr "ログ出力:"
+
+msgid "JS Engine: {}"
+msgstr "JS エンジン: {}"
+
+msgid "Missing (Node.js/Deno not found)"
+msgstr "未検出 (Node.js または Deno が必要)"
+
+msgid "Settings saved successfully!"
+msgstr "設定を保存しました"
+
+msgid "Input Error"
+msgstr "入力エラー"
+
+msgid "Please enter a valid URL"
+msgstr "有効なURLを入力してください"
+
+msgid "Path Error"
+msgstr "パスエラー"
+
+msgid "Output directory does not exist and cannot be created:
+{}"
+msgstr "出力ディレクトリが存在せず、作成もできません:
+{}"
+
+msgid "DOWNLOADING..."
+msgstr "ダウンロード中..."
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Completed"
+msgstr "完了"
+
+msgid "Download Finished!"
+msgstr "ダウンロードが完了しました"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "Error occurred"
+msgstr "エラーが発生しました"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Language:"
+msgstr "言語:"
+
+msgid "Theme:"
+msgstr "テーマ:"
+
+msgid "Dark"
+msgstr "ダーク"
+
+msgid "Light"
+msgstr "ライト"
+
+msgid "Output Directory:"
+msgstr "出力ディレクトリ:"
+
+msgid "Browse"
+msgstr "参照"
+
+msgid "Cookies File:"
+msgstr "Cookie ファイル:"
+
+msgid "Proxy URL:"
+msgstr "プロキシ URL:"
+
+msgid "Tools"
+msgstr "ツール"
+
+msgid "FFmpeg Location:"
+msgstr "FFmpeg の場所:"
+
+msgid "Data Sync ID:"
+msgstr "データ同期 ID:"
+
+msgid "Save Settings"
+msgstr "設定を保存"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Not Found"
+msgstr "见つかりません"
+
+msgid "FFmpeg Status: {}"
+msgstr "FFmpeg ステータス: {}"
+
+msgid "FFprobe Status: {}"
+msgstr "FFprobe ステータス: {}"
+
+msgid "Format:"
+msgstr "フォーマット:"
+
+msgid "Video Extension:"
+msgstr "動画の拡張子:"
+
+msgid "Audio Extension:"
+msgstr "音声の拡張子:"
+
+msgid "Quality:"
+msgstr "画質:"
+
+msgid "Music Mode (Optimized)"
+msgstr "音楽モード (最適化)"
+
+msgid "Organize by Year"
+msgstr "年ごとに整理"
+
+msgid "Custom Output Template:"
+msgstr "カスタム出力テンプレート:"
+
+msgid "Browser Cookies:"
+msgstr "ブラウザの Cookie:"
+
+msgid "User Agent:"
+msgstr "ユーザーエージェント:"
+
+msgid "Rate Limit (e.g. 5M):"
+msgstr "速度制限 (例: 5M):"
+
+msgid "Socket Timeout (s):"
+msgstr "タイムアウト (秒):"
+
+msgid "Source IP:"
+msgstr "ソース IP:"
+
+msgid "Playlist Items (e.g. 1,2,5-10):"
+msgstr "プレイリストの項目 (例: 1,2,5-10):"
+
+msgid "Date (YYYYMMDD):"
+msgstr "日付 (YYYYMMDD):"
+
+msgid "Date Before:"
+msgstr "指定日より前:"
+
+msgid "Date After:"
+msgstr "指定日より後:"
+
+msgid "Min Filesize (e.g. 50k):"
+msgstr "最小ファイルサイズ:"
+
+msgid "Max Filesize (e.g. 50m):"
+msgstr "最大ファイルサイズ:"
+
+msgid "Match Filter:"
+msgstr "一致フィルター:"
+
+msgid "Embed Metadata"
+msgstr "メタデータを埋め込む"
+
+msgid "Embed Thumbnail"
+msgstr "サムネイルを埋め込む"
+
+msgid "Embed Subtitles"
+msgstr "字幕を埋め込む"
+
+msgid "Embed Chapters"
+msgstr "チャプターを埋め込む"
+
+msgid "Subtitle Languages (e.g. en,zh):"
+msgstr "字幕の言語:"
+
+msgid "SponsorBlock (e.g. all):"
+msgstr "SponsorBlock (例: all):"
+
+msgid "Write Description"
+msgstr "説明を書き込む"
+
+msgid "Write Info JSON"
+msgstr "情報の JSON を書き込む"
+
+msgid "Save Thumbnail to Disk"
+msgstr "サムネイルを保存"
+
+msgid "Legacy SSL (Fix EOF)"
+msgstr "レガシー SSL"
+
+msgid "Live From Start"
+msgstr "最初からライブ視聴"
+
+msgid "Use .part files"
+msgstr ".part ファイルを使用"
+
+msgid "Restrict Filenames (ASCII)"
+msgstr "ファイル名を制限 (ASCII)"
+
+msgid "Force Overwrite"
+msgstr "強制上書き"
+
+msgid "Retries:"
+msgstr "再試行回数:"
+
+msgid "Wait for Video (seconds):"
+msgstr "動画を待機 (秒):"
+
+msgid "Extra Arguments (CLI):"
+msgstr "追加引数 (CLI):"
+
+msgid "Command Preview:"
+msgstr "コマンドプレビュー:"
+

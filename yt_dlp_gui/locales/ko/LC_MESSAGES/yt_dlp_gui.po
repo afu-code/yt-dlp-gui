@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yt-dlp GUI\n"
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "yt-dlp Visual Downloader"
+msgstr "yt-dlp 비주얼 다운로더"
+
+msgid "YouTube Downloader"
+msgstr "유튜브 다운로더"
+
+msgid "⚙ Settings"
+msgstr "⚙ 설정"
+
+msgid "Video URL:"
+msgstr "동영상 URL:"
+
+msgid "https://www.youtube.com/watch?v=..."
+msgstr "https://www.youtube.com/watch?v=..."
+
+msgid "START DOWNLOAD"
+msgstr "다운로드 시작"
+
+msgid "Click to begin downloading the video or playlist"
+msgstr "다운로드를 시작하려면 클릭하세요"
+
+msgid "General"
+msgstr "일반"
+
+msgid "Network"
+msgstr "네트워크"
+
+msgid "Filters"
+msgstr "필터"
+
+msgid "Post-Processing"
+msgstr "후처리"
+
+msgid "Advanced"
+msgstr "고급 설정"
+
+msgid "Ready"
+msgstr "준비됨"
+
+msgid "Log Output:"
+msgstr "로그 출력:"
+
+msgid "JS Engine: {}"
+msgstr "JS 엔진: {}"
+
+msgid "Missing (Node.js/Deno not found)"
+msgstr "찾을 수 없음 (Node.js 또는 Deno 필요)"
+
+msgid "Settings saved successfully!"
+msgstr "설정이 저장되었습니다"
+
+msgid "Input Error"
+msgstr "입력 오류"
+
+msgid "Please enter a valid URL"
+msgstr "유효한 URL을 입력하세요"
+
+msgid "Path Error"
+msgstr "경로 오류"
+
+msgid "Output directory does not exist and cannot be created:
+{}"
+msgstr "출력 디렉토리가 존재하지 않으며 생성할 수 없습니다:
+{}"
+
+msgid "DOWNLOADING..."
+msgstr "다운로드 중..."
+
+msgid "Success"
+msgstr "성공"
+
+msgid "Completed"
+msgstr "완료"
+
+msgid "Download Finished!"
+msgstr "다운로드가 완료되었습니다"
+
+msgid "Error"
+msgstr "오류"
+
+msgid "Error occurred"
+msgstr "오류가 발생했습니다"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Language:"
+msgstr "언어:"
+
+msgid "Theme:"
+msgstr "테마:"
+
+msgid "Dark"
+msgstr "다크"
+
+msgid "Light"
+msgstr "라이트"
+
+msgid "Output Directory:"
+msgstr "출력 디렉토리:"
+
+msgid "Browse"
+msgstr "찾아보기"
+
+msgid "Cookies File:"
+msgstr "쿠키 파일:"
+
+msgid "Proxy URL:"
+msgstr "프록시 URL:"
+
+msgid "Tools"
+msgstr "도구"
+
+msgid "FFmpeg Location:"
+msgstr "FFmpeg 위치:"
+
+msgid "Data Sync ID:"
+msgstr "데이터 동기화 ID:"
+
+msgid "Save Settings"
+msgstr "설정 저장"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Not Found"
+msgstr "찾을 수 없음"
+
+msgid "FFmpeg Status: {}"
+msgstr "FFmpeg 상태: {}"
+
+msgid "FFprobe Status: {}"
+msgstr "FFprobe 상태: {}"
+
+msgid "Format:"
+msgstr "형식:"
+
+msgid "Video Extension:"
+msgstr "동영상 확장자:"
+
+msgid "Audio Extension:"
+msgstr "오디오 확장자:"
+
+msgid "Quality:"
+msgstr "화질:"
+
+msgid "Music Mode (Optimized)"
+msgstr "음악 모드 (최적화)"
+
+msgid "Organize by Year"
+msgstr "연도별 정리"
+
+msgid "Custom Output Template:"
+msgstr "사용자 정의 출력 템플릿:"
+
+msgid "Browser Cookies:"
+msgstr "브라우저 쿠키:"
+
+msgid "User Agent:"
+msgstr "User Agent:"
+
+msgid "Rate Limit (e.g. 5M):"
+msgstr "속도 제한 (예: 5M):"
+
+msgid "Socket Timeout (s):"
+msgstr "제한 시간 (초):"
+
+msgid "Source IP:"
+msgstr "소스 IP:"
+
+msgid "Playlist Items (e.g. 1,2,5-10):"
+msgstr "재생목록 항목 (예: 1,2,5-10):"
+
+msgid "Date (YYYYMMDD):"
+msgstr "날짜 (YYYYMMDD):"
+
+msgid "Date Before:"
+msgstr "이전 날짜:"
+
+msgid "Date After:"
+msgstr "이후 날짜:"
+
+msgid "Min Filesize (e.g. 50k):"
+msgstr "최소 파일 크기:"
+
+msgid "Max Filesize (e.g. 50m):"
+msgstr "최대 파일 크기:"
+
+msgid "Match Filter:"
+msgstr "일치 필터:"
+
+msgid "Embed Metadata"
+msgstr "메타데이터 포함"
+
+msgid "Embed Thumbnail"
+msgstr "썸네일 포함"
+
+msgid "Embed Subtitles"
+msgstr "자막 포함"
+
+msgid "Embed Chapters"
+msgstr "챕터 포함"
+
+msgid "Subtitle Languages (e.g. en,zh):"
+msgstr "자막 언어:"
+
+msgid "SponsorBlock (e.g. all):"
+msgstr "SponsorBlock (예: all):"
+
+msgid "Write Description"
+msgstr "설명 저장"
+
+msgid "Write Info JSON"
+msgstr "정보 JSON 저장"
+
+msgid "Save Thumbnail to Disk"
+msgstr "썸네일 디스크에 저장"
+
+msgid "Legacy SSL (Fix EOF)"
+msgstr "레거시 SSL"
+
+msgid "Live From Start"
+msgstr "처음부터 라이브"
+
+msgid "Use .part files"
+msgstr ".part 파일 사용"
+
+msgid "Restrict Filenames (ASCII)"
+msgstr "파일 이름 제한 (ASCII)"
+
+msgid "Force Overwrite"
+msgstr "강제 덮어쓰기"
+
+msgid "Retries:"
+msgstr "재시도 횟수:"
+
+msgid "Wait for Video (seconds):"
+msgstr "비디오 대기 (초):"
+
+msgid "Extra Arguments (CLI):"
+msgstr "추가 인수 (CLI):"
+
+msgid "Command Preview:"
+msgstr "명령어 미리보기:"
+
