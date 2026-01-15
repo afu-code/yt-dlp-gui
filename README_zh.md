@@ -1,4 +1,4 @@
-﻿# yt-dlp-gui
+# yt-dlp-gui
 
 [English](README.md) | [简体中文](README_zh.md)
 <div align="center">
